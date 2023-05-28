@@ -20,5 +20,5 @@ localhost/rest/v1/calendar/redirect/
 Here you can see all you google calendar events as a JSON Response
 
 
-#REPLIT:
-#https://replit.com/@prithvik02/Convin
+# REPLIT:
+# https://replit.com/@prithvik02/Convin
